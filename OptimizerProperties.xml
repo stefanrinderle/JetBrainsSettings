@@ -1,0 +1,19 @@
+<application>
+  <component name="IntelliJOptimizer">
+    <option name="installationGuid" value="QsNCY0nQ8NOoMc1M9Pw+CcZz9+57YOsCXieqtkpSQa0=" />
+    <option name="installationTimestamp" value="1449755753584" />
+    <option name="firstBootTime" value="17111148791" />
+    <option name="previousBootTime" value="32650713732" />
+    <option name="currentBootTime" value="21070928283" />
+    <option name="isOpenOptimizerOnStartup" value="false" />
+    <option name="isFirstBoot" value="false" />
+    <option name="isSignedUp" value="true" />
+    <option name="isJRebelPresentNotificationSent" value="true" />
+    <option name="company" value="private" />
+    <option name="email" value="stefan@rinderle.info" />
+    <option name="firstName" value="Stefan" />
+    <option name="lastName" value="Rinderle" />
+    <option name="phoneNumber" value="0049724582944" />
+    <option name="getDevelopersInCompany" value="N/A" />
+  </component>
+</application>
