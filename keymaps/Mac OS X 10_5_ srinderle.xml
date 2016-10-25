@@ -11,4 +11,14 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta o" />
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="GotoFile" />
+  <action id="NewScratchFile" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
 </keymap>
