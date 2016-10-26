@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/Users/stefanrinderle/Documents/workspace_klamottenwetter/klamottenwetterWeb/src - [klamottenwetterWeb]'" />
-    <option name="defaultScopeName" value="Directory '/Users/stefanrinderle/Documents/workspace_klamottenwetter/klamottenwetterWeb/src - [klamottenwetterWeb]'" />
-    <option name="SEARCH_SCOPE" value="Directory '/Users/stefanrinderle/Documents/workspace_klamottenwetter/klamottenwetterWeb/src - [klamottenwetterWeb]'" />
+    <option name="customScope" value="Directory '/Users/stefanrinderle/Documents/workspace_elephant/elephantBackend2 - [elephantBackend2]'" />
+    <option name="defaultScopeName" value="Directory '/Users/stefanrinderle/Documents/workspace_elephant/elephantBackend2 - [elephantBackend2]'" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/stefanrinderle/Documents/workspace_elephant/elephantBackend2 - [elephantBackend2]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
