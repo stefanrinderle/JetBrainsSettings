@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/app.tsx - [resources]'" />
-    <option name="defaultScopeName" value="File '.../src/app.tsx - [resources]'" />
-    <option name="SEARCH_SCOPE" value="File '.../src/app.tsx - [resources]'" />
+    <option name="customScope" value="Module 'elephantBackend'" />
+    <option name="defaultScopeName" value="Module 'elephantBackend'" />
+    <option name="SEARCH_SCOPE" value="Module 'elephantBackend'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
