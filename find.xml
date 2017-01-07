@@ -3,6 +3,7 @@
     <option name="customScope" value="Module 'elephantBackend'" />
     <option name="defaultScopeName" value="Module 'elephantBackend'" />
     <option name="SEARCH_SCOPE" value="Module 'elephantBackend'" />
+    <option name="FILE_MASK" value="*.ts*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -21,8 +22,9 @@
       <mask>*spec.ts</mask>
       <mask>*.html</mask>
       <mask>*.spec.ts</mask>
-      <mask>*.ts</mask>
       <mask>*.tsx</mask>
+      <mask>*.ts</mask>
+      <mask>*.ts*</mask>
     </recentFileMasks>
   </component>
 </application>
