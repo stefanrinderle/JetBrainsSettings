@@ -3,9 +3,14 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <token>dfc9dfcfdf9cdfcfdf98df98df99dfc8dfcedfc9dfc8dfcedfcedf9fdf99dfc9dfccdfcfdfcbdf9bdf9bdf9ddf99dfccdfccdf9bdf9fdf92df93dfcfdf9cdf92df92df99df92df9edf9adf93dfcedfc8</token>
           <option name="hostUrl" value="http://softvis3d.com/sonar" />
+          <token>dfc9dfcfdf9cdfcfdf98df98df99dfc8dfcedfc9dfc8dfcedfcedf9fdf99dfc9dfccdfcfdfcbdf9bdf9bdf9ddf99dfccdfccdf9bdf9fdf92df93dfcfdf9cdf92df92df99df92df9edf9adf93dfcedfc8</token>
           <option name="name" value="softvis3d sonar" />
+        </SonarQubeServer>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.com" />
+          <token />
+          <option name="name" value="https://sonarqube.com" />
         </SonarQubeServer>
       </list>
     </option>
