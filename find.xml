@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Module 'elephantBackend'" />
     <option name="defaultScopeName" value="Module 'elephantBackend'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Module 'elephantBackend'" />
     <recentFileMasks>
       <mask>*.properties</mask>
