@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts*" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -17,14 +17,12 @@
       <mask>*e2e.ts</mask>
       <mask>*Test.java</mask>
       <mask>*.css</mask>
-      <mask>pom.xml</mask>
       <mask>*.less</mask>
       <mask>*spec.ts</mask>
       <mask>*.html</mask>
-      <mask>*.tsx</mask>
       <mask>*.ts</mask>
       <mask>*.spec.ts</mask>
-      <mask>*.ts*</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
