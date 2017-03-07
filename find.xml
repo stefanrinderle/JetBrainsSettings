@@ -3,6 +3,7 @@
     <option name="customScope" value="Directory '.../src - [softvis3d-frontend]'" />
     <option name="defaultScopeName" value="Directory '.../src - [softvis3d-frontend]'" />
     <option name="SEARCH_SCOPE" value="Directory '.../src - [softvis3d-frontend]'" />
+    <option name="FILE_MASK" value="*.tsx" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
