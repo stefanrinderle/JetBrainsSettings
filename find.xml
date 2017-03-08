@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Production Files" />
-    <option name="defaultScopeName" value="Project Production Files" />
-    <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="customScope" value="Directory '.../src - [softvis3d-frontend]'" />
+    <option name="defaultScopeName" value="Directory '.../src - [softvis3d-frontend]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src - [softvis3d-frontend]'" />
+    <option name="FILE_MASK" value="*.tsx" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -22,6 +23,8 @@
       <mask>*.ts</mask>
       <mask>*.spec.ts</mask>
       <mask>pom.xml</mask>
+      <mask>*.ts*</mask>
+      <mask>*.tsx</mask>
     </recentFileMasks>
   </component>
 </application>
