@@ -22,8 +22,8 @@
       <mask>*.ts</mask>
       <mask>*.spec.ts</mask>
       <mask>pom.xml</mask>
-      <mask>*.ts*</mask>
       <mask>*.tsx</mask>
+      <mask>*.ts*</mask>
     </recentFileMasks>
   </component>
 </application>
