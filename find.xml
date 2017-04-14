@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Production Files" />
-    <option name="defaultScopeName" value="Project Production Files" />
-    <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="customScope" value="Directory '.../test - [softvis3d-frontend]'" />
+    <option name="defaultScopeName" value="Directory '.../test - [softvis3d-frontend]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../test - [softvis3d-frontend]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
