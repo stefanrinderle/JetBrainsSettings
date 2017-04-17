@@ -6,6 +6,7 @@
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="bin" type="PLAIN_TEXT" />
       <mapping pattern="SceneParams" type="PLAIN_TEXT" />
+      <mapping pattern="TeamscaleElement.ts" type="PLAIN_TEXT" />
       <mapping pattern="sldlsdfi" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
