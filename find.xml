@@ -26,6 +26,9 @@
       <mask>pom.xml</mask>
       <mask>*.tsx</mask>
       <mask>*.ts*</mask>
+      <mask>*.tets*</mask>
+      <mask>*.testts*</mask>
+      <mask>*.test.ts*</mask>
     </recentFileMasks>
   </component>
 </application>
