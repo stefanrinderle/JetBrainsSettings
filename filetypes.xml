@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="TeamscaleElement.ts" type="PLAIN_TEXT" />
+      <mapping ext="ftl" type="HTML" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".bootstraprc" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
@@ -21,6 +22,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="erb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
