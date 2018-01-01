@@ -22,6 +22,7 @@
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="erb" type="PLAIN_TEXT" />
+      <mapping ext="de" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
