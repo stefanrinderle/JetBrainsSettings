@@ -9,6 +9,8 @@
       <mapping pattern=".bootstraprc" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="playLogDate" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignoew" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignoer" type="PLAIN_TEXT" />
       <mapping pattern="sldlsdfi" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
