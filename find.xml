@@ -5,34 +5,15 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>e2d.ts</mask>
-      <mask>*.e2d.ts</mask>
-      <mask>*e2e.ts</mask>
-      <mask>*Test.java</mask>
-      <mask>*.css</mask>
-      <mask>*.less</mask>
-      <mask>*spec.ts</mask>
-      <mask>*.html</mask>
-      <mask>*.ts</mask>
-      <mask>*.spec.ts</mask>
-      <mask>pom.xml</mask>
-      <mask>*.tsx</mask>
-      <mask>*.tets*</mask>
-      <mask>*.testts*</mask>
-      <mask>*.test.ts*</mask>
-      <mask>*.s.ts*</mask>
-      <mask>*.sp.ts*</mask>
-      <mask>*.spe.ts*</mask>
-      <mask>*.spec.ts*</mask>
-      <mask>*.ts*</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.html" />
+    <mask>*.properties</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.html</mask>
   </component>
 </application>
