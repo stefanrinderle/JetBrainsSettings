@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'frontend'" />
-    <option name="defaultScopeName" value="Project 'frontend'" />
+    <option name="customScope" value="Directory '.../src [frontend]'" />
+    <option name="defaultScopeName" value="Directory '.../src [frontend]'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'frontend'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src [frontend]'" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
