@@ -14,5 +14,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.html</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
