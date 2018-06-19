@@ -5,23 +5,24 @@
       <mapping pattern="TeamscaleElement.ts" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".bootstraprc" type="PLAIN_TEXT" />
-      <mapping pattern="SceneParams" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="playLogDate" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".gitignoew" type="PLAIN_TEXT" />
       <mapping pattern=".gitignoer" type="PLAIN_TEXT" />
       <mapping pattern="sldlsdfi" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="SceneParams" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern="bin" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="erb" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
-      <mapping ext="erb" type="PLAIN_TEXT" />
       <mapping ext="de" type="PLAIN_TEXT" />
+      <mapping pattern="TourdateMonth" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
